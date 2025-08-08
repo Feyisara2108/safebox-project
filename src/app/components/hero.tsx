@@ -40,7 +40,7 @@ const Hero =()=>{
           <div className="  md:flex   items-end gap-3 justify-center">
              <div className="  ">
           <Image
-            src="/image/safebox-card-digital-access.png"
+            src="/safebox-card-digital-access.png"
             alt="Safebox Phone Mockup"
             className=" w-60 h-52 xl:w-70 xl:h-110 hidden md:flex object-contain"
             width={200}
@@ -49,25 +49,25 @@ const Hero =()=>{
         </div>
           <div className=" ">
           <Image
-            src="/image/safebox-card-personal.png"
+            src="/safebox-card-personal.png"
             alt="Safebox Phone Mockup"
-            className=" hidden md:flex w-60 h-52 xl:w-80 xl:h-130 object-contain "
-            width={320}
-            height={640}
+            className=" hidden md:flex w-60 h-52 xl:w-80 xl:h-130 object-contain"
+             width={320}
+             height={640}
           />
         </div>
         <div className=" ">
           <Image
-            src="/image/safebox-app-dashboard.png"
+            src="/safebox-app-dashboard.png"
             alt="Safebox Phone Mockup"
-            className="mx-auto w-70 h-80 xl:w-140 xl:h-160 object-contain"
+            className="mx-auto w-70 h-80 xl:w-140 xl:h-160  object-contain "
             width={400}
             height={640}
           />
         </div>
           <div className=" ">
           <Image
-            src="/image/safebox-card-bank-accounts.png"
+            src="/safebox-card-bank-accounts.png"
             alt="Safebox Phone Mockup"
             className=" hidden md:flex w-60 h-52 xl:w-80 xl:h-130 object-contain "
             width={320}
@@ -76,9 +76,9 @@ const Hero =()=>{
         </div>
           <div className=" ">
           <Image
-            src="/image/safebox-card-household.png"
+            src="/safebox-card-household.png"
             alt="Safebox Phone Mockup"
-            className=" hidden md:flex w-60 h-52 xl:w-70 xl:h-110  object-contain"
+            className=" hidden md:flex w-60 h-52 xl:w-70 xl:h-110 object-contain "
             width={320}
             height={640}
           />

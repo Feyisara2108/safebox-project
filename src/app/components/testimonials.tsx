@@ -37,7 +37,7 @@ const Testimonials = () => {
                 className="bg-[#5a6c7d] p-8 rounded-2xl hover:-translate-y-1 transition"
               >
                 {/* <p className="italic mb-6">"{item.text}"</p> */}
-                <p className="italic mb-6">&quot;{item.text}&quot;</p>
+                <p className="italic mb-6">&quot;I've invested in stocks...&quot;</p>
                 <div className="flex justify-center items-center gap-4">
                   <div className="w-12 h-12 rounded-full bg-[#718096] flex items-center justify-center text-xl">
                     {item.icon}
